@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AtharvaManchalkar
-- 👀 I’m interested in ... 
+- 👀 I’m interested in web dev, ai, cp. 
 - 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me -search it up 
-- 😄 Pronouns: ...
+- 😄 Pronouns: hehehe
 - ⚡ Fun fact: ...
 
 <!---
